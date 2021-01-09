@@ -1,0 +1,1 @@
+This project is meant to understand from 0 to basics what Golang can offer as web development programming language
